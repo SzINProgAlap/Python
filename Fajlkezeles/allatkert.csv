@@ -1,0 +1,36 @@
+állat;faj;étel típus;napi mennyiség;étel ára
+Oroszlán;Emlős;Hús;5;2800
+Zebra;Emlős;Széna;10;150
+Elefánt;Emlős;Gyümölcs;50;200
+Zsiráf;Emlős;Lucerna;8;350
+Barna medve;Emlős;Hal;4;1200
+Panda;Emlős;Bambusz;15;500
+Tigris;Emlős;Hús;6;2800
+Pingvin;Madár;Hal;1;900
+Orrszarvú;Emlős;Széna;25;150
+Fóka;Emlős;Hal;2;1500
+Kenguru;Emlős;Fű;3;400
+Gorilla;Emlős;Zöldség;12;700
+Víziló;Emlős;Fű;30;100
+Lajhár;Emlős;Levelek;0.5;800
+Krokodil;Hüllő;Hús;1.5;1800
+Flamingó;Madár;Alga;0.2;2500
+Kígyó (Piton);Hüllő;Rágcsáló;0.1;1000
+Pókmajom;Emlős;Gyümölcs;1;600
+Strucc;Madár;Magvak;4;250
+Béka (nyílméreg);Kétéltű;Rovarok;0.01;5000
+Párduc;Emlős;Hús;3.5;2800
+Pelikán;Madár;Hal;1.5;900
+Kapibara;Emlős;Fű;6;100
+Gepárd;Emlős;Hús;4;2800
+Sirály;Madár;Hal;0.3;1100
+Teknős (óriás);Hüllő;Zöldség;2;700
+Tapír;Emlős;Gyümölcs;5;600
+Pávián;Emlős;Magvak;1;450
+Szarvasbogár;Rovar;NeKtár;0.005;7000
+Strucc;Madár;Magvak;4;250
+Bölény;Emlős;Széna;18;150
+Tukán;Madár;Gyümölcs;0.4;1500
+Gekko;Hüllő;Rovarok;0.05;3000
+Sas;Madár;Hús;0.8;2000
+Vakondok;Emlős;Földigiliszta;0.1;1800
