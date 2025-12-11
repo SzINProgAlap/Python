@@ -1,0 +1,40 @@
+Összegzés tétel
+( nem használhatnak beépített fügvvényeket pl. in() )
+
+lista = 100 db random szám 200 - 500 között
+összegezni a páros számokat
+kimenet: "Összeg:" 10 karakter szélességben középre igazítva
+
+__________________________________________________________
+Megszámlálás tétel
+
+lista 500 db random szám 0 és 200 között
+megszámlálni a 100 -nál nagyobb számokat
+kimenet: "100 -nál nagyobb számok:" 15 karakter szélességben jobbra
+	igazítva "db."
+
+___________________________________________________________
+Eldöntés tétel
+
+lista feltöltése a txt tartalmával
+Szerepel -e benne a Vince név?
+ha meg van a ciklus álljon le
+kimenet: "Szerepel" vagy "Nem szerepel"
+
+___________________________________________________________
+Kiválasztás tétel
+
+lista feltöltése a txt tartalmával
+Szerepel -e benne a Zalán név?
+Ha igen hányadik helyén van a listának?
+kimenet: "Szerepel, a" 10 karakter szélesség középre igazítva ". helyen"
+
+________________________________________________________________________
+Kiválogatás tétel
+
+lista feltöltése a txt tartalmával
+másik listába másolni a "K" betűvel kezdődő neveket.
+kimenet: 1 sorban 5 név, vesszővel tagolva
+
+
+	

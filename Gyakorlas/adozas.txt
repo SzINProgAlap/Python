@@ -1,0 +1,25 @@
+Készítsen egy Python programot, amely elvégzi egy havi bruttó jövedelem előzetes SZJA kalkulációját.
+A programban TILOS ciklusokat (for, while) használni, és a működésnek kizárólag feltételvizsgálati szerkezetekre (if, elif, else) kell épülnie.
+A programnak be kell kérnie a felhasználótól (egész számként):
+Havi Bruttó Jövedelem (HUF): (pl. 450000).
+Kedvezményre jogosító Gyermekek Száma: (0 és 5 között).
+Egyedülálló Nyilatkozat (I/N): 'I' (Igen) vagy 'N' (Nem).
+Adószabályok és Kedvezmények
+A számítást a következő, szigorú feltételek alapján kell elvégezni:
+Bruttó Jövedelem (J)
+Alap Adókulcs
+Jövedelem < 400 000 HUF 15%
+Jövedelem > 400 000$ HUF 18%
+Családi Adókedvezmény
+A kedvezmény összege a gyermekek számától függ (ez az összeg vonható le a számított adóból):
+0 gyermek: 0 HUF
+1 gyermek: 10 000 HUF
+2 gyermek: 40 000 HUF
+3 vagy több gyermek: 80 000 HUF
+Egyedülálló Kedvezmény
+Feltétel: Ha a felhasználó egyedülálló nyilatkozatot tett ('I') ÉS a Bruttó Jövedelem < 350 000 HUF,
+akkor további 15 000 HUF levonható a számított adóból.
+A programnak ki kell írnia a Számított Adót (kedvezmények nélkül), a Teljes Levonható Kedvezményt és a Végső Nettó Jövedelmet.
+Kezelnie kell a bemeneti hibákat és a tartományon kívüli értékeket is. A bemeneti hibákat regexeléssel kezelje.
+
+
